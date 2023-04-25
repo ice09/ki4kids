@@ -1,4 +1,4 @@
-# ki4kids
+# KI4KIds
 KI4KIds Kurse auf Deutsch
 
 ## License
